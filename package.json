@@ -3,6 +3,8 @@
 	"displayName": "line-or-word-sort",
 	"description": "选中的文本按行或词排序",
 	"version": "0.0.1",
+	"publisher": "pengist",
+	"repository": "https://github.com/pengist/vscode-extension-line-or-word-sort",
 	"engines": {
 		"vscode": "^1.67.0"
 	},
